@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#F1F5F9 ;
+}
+header {
+    background-color: #0ea5e9;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+    border-bottom: 20px;
+}
+header p {
+    margin-top: 30px;
+}
+.mucluc {
+    background-color:#E0F2FE ;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+}
+.mucluc a {
+    text-decoration: none;
+    color: #075e86;
+    font-size: 18px;
+    margin: 20px;
+}
+.mucluc a:hover {
+    color: white;
+    background-color: #0284C7;
+}
+.gioithieu {
+    margin: 40px 20px 20px 20px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+}
+.uytin {
+    margin: 40px 20px 20px 20px;
+    background-color:#ECFEFF;
+    padding: 50px;
+    border-left: 5px solid #0ea5e9;
+    border-radius: 20px;
+}
+.uytin li {
+    list-style: none;
+}
+footer {
+    margin-top: 200px;
+    background-color: #10172A;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
